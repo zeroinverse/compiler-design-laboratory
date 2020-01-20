@@ -53,9 +53,9 @@ LEXICAL ANALYSIS
 
 SYMBOL TABLE
 ------------
-Identifier 	|Type 	|No of bytes 	|Value
-|a 		    |int 	|2 		        |3
-|b 	    	|int 	|2 		        |5
+Identifier|Type |No of bytes  |Value
+|a        |int  |2            |3
+|b        |int  |2            |5
 
 
 ```
